@@ -105,7 +105,7 @@ We are also going to use:
 
 ### Tutorials
 - **online tools**
-	- [Color brewer](http://colorbrewer2.org)
+	- [Pick your color](https://www.w3schools.com/colors/colors_picker.asp) with [Color brewer](http://colorbrewer2.org)
 	- Read your JSON with [jsoneditoronline.org](http://jsoneditoronline.org/)
 	- store your JSON with [myjon.com](http://myjson.com/)
 	- Convert shapefile to GeoJSON with [mygeodata](https://mygeodata.cloud/)
