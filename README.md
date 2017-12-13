@@ -12,7 +12,7 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
 We are also going to use: 
 - 	**JSFiddle**, a javascript online editor [sign up here - free](https://jsfiddle.net/user/signup/)
 - 	**Carto** an online map editor [sign up here - free](https://carto.com/signup/)
-
+- 	**PowerBI** Microsoft datavisualization dashboard tool [sign up here](https://powerbi.microsoft.com/en-us/desktop/)
 **! To save time during the workshop, register to jsfiddle and carto**
 
 ---
