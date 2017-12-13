@@ -53,7 +53,9 @@ We are also going to use:
 	+ Structured text data:
 		+ Intro to XML
 		+ Intro to [JSON](https://en.wikipedia.org/wiki/JSON)
-		+ Intro to YAML
+		+ Intro to [GeoJSON](https://fr.wikipedia.org/wiki/GeoJSON) and shapefiles
+			+ usefull link: [https://mygeodata.cloud/](https://mygeodata.cloud/)
+			+ [StatSilk Shapefiles](https://www.statsilk.com/maps/download-free-shapefile-maps#download-country-shapefile-maps)
 	
 ---
 
