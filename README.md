@@ -104,6 +104,12 @@ We are also going to use:
 - Hagley, J. What is the difference bewteen infographic and dataviz ? [Link](http://www.jackhagley.com/What-s-the-difference-between-an-Infographic-and-a-Data-Visualisation)
 
 ### Tutorials
+- **online tools**
+	- [Color brewer](http://colorbrewer2.org)
+	- Read your JSON with [jsoneditoronline.org](http://jsoneditoronline.org/)
+	- store your JSON with [myjon.com](http://myjson.com/)
+	- Convert shapefile to GeoJSON with [mygeodata](https://mygeodata.cloud/)
+	
 - **Code sample we saw on JSfiddle**:
 	- [SVG](http://jsfiddle.net/ThomasRoca/q754amnd/)
 	- [highcharts](http://jsfiddle.net/ThomasRoca/fps87ooa)
