@@ -39,6 +39,7 @@ We are also going to use:
 **JavaScript library & dataviz**
 - 	dataviz the example of [Highcharts](https://www.highcharts.com/)
 - 	SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
+-	Using folium and python
 
 **III. Data and programmming for the web: [30min]**
 
