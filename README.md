@@ -13,6 +13,7 @@ We are also going to use:
 - 	**JSFiddle**, a javascript online editor [sign up here - free](https://jsfiddle.net/user/signup/)
 - 	**Carto** an online map editor [sign up here - free](https://carto.com/signup/)
 - 	**PowerBI** Microsoft datavisualization dashboard tool [sign up here](https://powerbi.microsoft.com/en-us/desktop/)
+- 	& **Power Maps for Excel**, you can read about it [here](https://support.office.com/en-us/article/I-don-t-see-the-Power-Map-button-in-Excel-db03bf67-d2b3-42a7-adf1-9c38f024a8ce?ui=en-US&rs=en-US&ad=US)
 **! To save time during the workshop, register to jsfiddle and carto**
 
 ---
