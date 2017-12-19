@@ -37,6 +37,12 @@ We are also going to use:
   - Map Cameroon population in 2015 using the data in the Github folder (CMR sub)
 --- 
 
+
+---
+
+### Part II. When statistician met the web
+---
+
 **II. Basic instroduction to the web languages: HTML, CSS, JavaScript [20min]**
 -	Basic introduction to [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp)
 - 	Introduction to [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
@@ -63,10 +69,6 @@ We are also going to use:
 			+ usefull link: [https://mygeodata.cloud/](https://mygeodata.cloud/)
 			+ [StatSilk Shapefiles](https://www.statsilk.com/maps/download-free-shapefile-maps#download-country-shapefile-maps)
 	
----
-
-### Part II. When statistician met the web
----
 
 **IV. Getting real time data: from scrapper to API, the data revolution: [20min]**
 - Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
