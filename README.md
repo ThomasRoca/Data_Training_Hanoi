@@ -18,6 +18,10 @@ We are also going to use:
 
 ---
 
+**Introduction: from people to data, to people  **
+
+
+
 **I. Basic introduction to data representation [15min]**
 - 	What, and why dataviz ? 
 	- Better understanding
@@ -61,7 +65,7 @@ We are also going to use:
 	
 ---
 
-### Part II. 14.00
+### Part II. When statistician met the web
 ---
 
 **IV. Getting real time data: from scrapper to API, the data revolution: [20min]**
@@ -93,7 +97,11 @@ We are also going to use:
 	- subnational level in Kenya
 	- for the last DHS available
 ---   	
-	
+
+
+### Part III. When data meet the cloud
+
+
 ## Further reading:
 - Friendly, M., 1999, "Re-Visions of Minard", [link](http://www.datavis.ca/gallery/minard/minard.pdf])
 - Friendly, M., 2008, "A Brief History of Data Visualization" [link](http://byrneslab.net/classes/biol607/readings/Friendly_2008_dataviz_history.pdf)
