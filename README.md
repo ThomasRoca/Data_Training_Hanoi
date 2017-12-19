@@ -70,15 +70,6 @@ We are also going to use:
 			+ [StatSilk Shapefiles](https://www.statsilk.com/maps/download-free-shapefile-maps#download-country-shapefile-maps)
 	
 
-**IV. Getting real time data: from scrapper to API, the data revolution: [20min]**
-- Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
--  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
--  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
-
- 
----
-
-
 **Practical: Option A. Create a DataStory with Highcharts and Carto**
    + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
    It can be about :
@@ -87,6 +78,17 @@ We are also going to use:
    - sociaux economic conditions etc.
    You can use data sources such as the World Bank indicators, UN OCHA HDX platform, etc.
 
+
+
+
+### Part III. When data meet the cloud
+
+**IV. Getting real time data: from scrapper to API, the data revolution: [20min]**
+- Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
+-  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
+-  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
+
+ 
 --- 
 **Pratical: OPtion B. Use world bank API & the DHS application** 
 - World bank [API](https://datahelpdesk.worldbank.org/knowledgebase/articles/898581-api-basic-call-structure)
@@ -100,8 +102,15 @@ We are also going to use:
 	- for the last DHS available
 ---   	
 
+**IV. Leveraging Cloud computing and Data science algorithm as a service: [20min]**
+- Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
+-  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
+-  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
 
-### Part III. When data meet the cloud
+**V. Deploying data products on the cloud**
+- Introduction to Flask
+ - A simple scraping algorithm on Azure
+ - Deploying Machine Learning Algorithm on the web and user interface.
 
 
 ## Further reading:
