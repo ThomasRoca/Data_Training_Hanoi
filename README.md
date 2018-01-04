@@ -7,13 +7,19 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 #### Dataviz workshop: [Lecture slides available]
 
 **Tools we are going to use:**
-For this workshop, you will need to install a code editor (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights);
+For this workshop, you will need to install a code editor:
+- (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights);
 
 We are also going to use: 
 - 	**JSFiddle**, a javascript online editor [sign up here - free](https://jsfiddle.net/user/signup/)
 - 	**Carto** an online map editor [sign up here - free](https://carto.com/signup/)
 - 	**PowerBI** Microsoft datavisualization dashboard tool [sign up here](https://powerbi.microsoft.com/en-us/desktop/)
 - 	& **Power Maps for Excel**, you can read about it [here](https://support.office.com/en-us/article/I-don-t-see-the-Power-Map-button-in-Excel-db03bf67-d2b3-42a7-adf1-9c38f024a8ce?ui=en-US&rs=en-US&ad=US)
+
+For thoses who wants to go further and try Cloud Services:
+- **Azure**, Microsoft Cloud services: [try a month for free](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/)
+
+
 **! To save time during the workshop, register to jsfiddle and carto**
 
 ---
