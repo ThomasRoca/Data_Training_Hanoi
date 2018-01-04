@@ -7,7 +7,8 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 #### Dataviz workshop: [Lecture slides available]
 
 **Tools we are going to use:**
-For this workshop, you will need to install a code editor:
+
+For this workshop, you will need to install a **code editor**:
 - (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights);
 
 We are also going to use: 
@@ -19,8 +20,7 @@ We are also going to use:
 For thoses who wants to go further and try Cloud Services:
 - **Azure**, Microsoft Cloud services: [try a month for free](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/)
 
-
-**! To save time during the workshop, register to jsfiddle and carto**
+**!! To save time during the workshop, register to JSFiddle and Carto !! **
 
 ---
 
