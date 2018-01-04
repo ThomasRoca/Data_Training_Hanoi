@@ -110,8 +110,9 @@ We are also going to use:
 **V. Deploying data products on the cloud**
 - Introduction to Flask
  - A simple scraping algorithm on Azure
- - Deploying Machine Learning Algorithm on the web and user interface.
-
+ - Automating data tasks on Azure 
+ - Deploying Machine Learning Algorithm on the web and user interface
+ 
 
 ## Further reading:
 - Friendly, M., 1999, "Re-Visions of Minard", [link](http://www.datavis.ca/gallery/minard/minard.pdf])
