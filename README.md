@@ -20,7 +20,7 @@ We are also going to use:
 For thoses who wants to go further and try Cloud Services:
 - **Azure**, Microsoft Cloud services: [try a month for free](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/)
 
-**!!To save time during the workshop, register to JSFiddle and Carto !! **
+**To save time during the workshop, register to JSFiddle and Carto !! **
 
 ---
 
