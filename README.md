@@ -112,6 +112,7 @@ For thoses who wants to go further and try Cloud Services:
 - Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
 -  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
 -  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
+- How API works ? Creating your first API 
 
 **V. Deploying data products on the cloud**
 - Introduction to Flask
