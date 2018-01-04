@@ -1,5 +1,5 @@
-# Data literacy training Hanoi
-**Building data products - January 29-31 - Hanoi**<br>
+# Data literacy and accountability, Building data products 
+** January 29-31 - Hanoi **<br>
 *Thomas Roca, PhD, Economist & Data Strategist - Microsoft*
 
 Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://github.com/ThomasRoca/) or [LinkedIn](https://www.linkedin.com/in/thomas-roca-43347484/)
