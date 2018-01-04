@@ -1,4 +1,4 @@
-# Data literacy and accountability, Building data products 
+# Data Literacy and Accountability, Building Data-Products 
 ** January 29-31 - Hanoi **<br>
 *Thomas Roca, PhD, Economist & Data Strategist - Microsoft*
 
