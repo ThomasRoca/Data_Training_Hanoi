@@ -1,7 +1,6 @@
 # Data Literacy and Accountability, Building Data-Products 
 ### From Data in a spreedsheet to data as a service !
-
-** January 29-31 - Hanoi **<br>
+- **January 29-31 - Hanoi**<br>
 *Thomas Roca, PhD, Economist & Data Strategist - Microsoft*
 
 Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://github.com/ThomasRoca/) or [LinkedIn](https://www.linkedin.com/in/thomas-roca-43347484/)
