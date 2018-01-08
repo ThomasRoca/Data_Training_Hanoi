@@ -1,4 +1,6 @@
 # Data Literacy and Accountability, Building Data-Products 
+*From Data in a spreedsheet to data as a service !*
+
 ** January 29-31 - Hanoi **<br>
 *Thomas Roca, PhD, Economist & Data Strategist - Microsoft*
 
@@ -24,8 +26,10 @@ For thoses who wants to go further and try Cloud Services:
 
 ---
 
-**Introduction: from people to data, to people  **
-
+**Introduction: from people to data, to people**
+from Data in a spreedsheet to data as a service
+- Data accountability
+- e.g. data.afd.fr; OPAL 
 
 
 **I. Basic introduction to data representation [15min]**
