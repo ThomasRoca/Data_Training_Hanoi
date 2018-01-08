@@ -1,5 +1,5 @@
 # Data Literacy and Accountability, Building Data-Products 
-*From Data in a spreedsheet to data as a service !*
+### From Data in a spreedsheet to data as a service !
 
 ** January 29-31 - Hanoi **<br>
 *Thomas Roca, PhD, Economist & Data Strategist - Microsoft*
