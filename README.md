@@ -4,8 +4,9 @@
 
 Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://github.com/ThomasRoca/) or [LinkedIn](https://www.linkedin.com/in/thomas-roca-43347484/)
 
-#### Dataviz workshop: [Lecture slides available]
+<br>
 
+**Dataviz workshop: [Lecture slides available soon]**
 **Tools we are going to use:**
 
 For this workshop, you will need to install a **code editor**:
@@ -20,7 +21,7 @@ We are also going to use:
 For thoses who wants to go further and try Cloud Services:
 - **Azure**, Microsoft Cloud services: [try a month for free](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/)
 
-**To save time during the workshop, register to JSFiddle and Carto !! **
+**To save time during the workshop, register to JSFiddle and Carto !!**
 
 ---
 
