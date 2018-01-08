@@ -7,6 +7,7 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 <br>
 
 **Dataviz workshop: [Lecture slides available soon]**
+
 **Tools we are going to use:**
 
 For this workshop, you will need to install a **code editor**:
