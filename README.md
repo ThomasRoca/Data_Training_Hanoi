@@ -26,7 +26,7 @@ For thoses who wants to go further and try Cloud Services:
 
 ---
 
-**Introduction: from people to data, to people**
+**Introduction: from people to data....to people**
 from Data in a spreedsheet to data as a service
 - Data accountability
 - e.g. data.afd.fr; OPAL 
