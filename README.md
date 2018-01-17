@@ -1,4 +1,4 @@
-# Data Literacy and Accountability, Building Data-Products 
+# Data Literacy and Accountability, delivering Data-Products 
 ### From Data in a spreedsheet to data as a service !
 *Thomas Roca, PhD, Economist & Data Strategist - Microsoft - January 29-31 - Hanoi*
 
