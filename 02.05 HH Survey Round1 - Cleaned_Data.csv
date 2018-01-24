@@ -1,0 +1,1556 @@
+code,name
+household_id,commune + HH id
+village_id,Village ID
+a_1_1,Date of interview (day)
+a_1_2,Date of interview (month)
+a_4,Province code
+a_5,District code
+b_6,Commune code
+b_7,Village code
+a_8,Household ID
+a_13a,Ethnicity of the HH head
+a_13b,Ethnicity of spouse
+a_14a,Gender of the HH head
+a_14b,Education of the HH head
+a_14c,Is the HH head married?
+a_14d,Education of the spouse with highest level of education
+a_15,Respondent?s relation to the HH head
+a_17a,Gender of respondent
+a_17b,Age of respondent
+a_18a,Education of respondent
+a_18b,Educational system
+a_19,How many years has the respondent been living in this village?
+a_20,How many years has the respondent been growing cassava?
+a_21a,Household size - Male
+a_21b,Household size - Female
+a_22a,Household size - members 0-5
+a_22b,Household size - members 5-17
+a_22c,Household size - members 18-64
+a_22d,Household size - members +64
+a_23,Literacy of respondent
+b_10,Plots of cassava
+b_42,Number of different cassava varieties (all plots)
+fertilizer,Did the household use any fertilizer?
+a_11b,Age of the HH head
+b_11a_1,Plot code
+b_11a_2,Plot code
+b_11a_3,Plot code
+b_11a_4,Plot code
+b_11a_5,Plot code
+b_11a_6,Plot code
+b_11a_7,Plot code
+b_11a_8,Plot code
+b_11a_9,Plot code
+b_12_1,Distance from homestead
+b_12_2,Distance from homestead
+b_12_3,Distance from homestead
+b_12_4,Distance from homestead
+b_12_5,Distance from homestead
+b_12_6,Distance from homestead
+b_12_7,Distance from homestead
+b_12_8,Distance from homestead
+b_12_9,Distance from homestead
+b_13_1,Trasportation mode
+b_13_2,Trasportation mode
+b_13_3,Trasportation mode
+b_13_4,Trasportation mode
+b_13_5,Trasportation mode
+b_13_6,Trasportation mode
+b_13_7,Trasportation mode
+b_13_8,Trasportation mode
+b_13_9,Trasportation mode
+b_14_1,Plot area
+b_14_2,Plot area
+b_14_3,Plot area
+b_14_4,Plot area
+b_14_5,Plot area
+b_14_6,Plot area
+b_14_7,Plot area
+b_14_8,Plot area
+b_14_9,Plot area
+b_14b_1,Plot area in m2
+b_14b_2,Plot area in m2
+b_14b_3,Plot area in m2
+b_14b_4,Plot area in m2
+b_14b_5,Plot area in m2
+b_14b_6,Plot area in m2
+b_14b_7,Plot area in m2
+b_14b_8,Plot area in m2
+b_14b_9,Plot area in m2
+b_15_1,Plot area - Unit
+b_15_2,Plot area - Unit
+b_15_3,Plot area - Unit
+b_15_4,Plot area - Unit
+b_15_5,Plot area - Unit
+b_15_6,Plot area - Unit
+b_15_7,Plot area - Unit
+b_15_8,Plot area - Unit
+b_15_9,Plot area - Unit
+b_16a_1,Soil type - Colour
+b_16a_2,Soil type - Colour
+b_16a_3,Soil type - Colour
+b_16a_4,Soil type - Colour
+b_16a_5,Soil type - Colour
+b_16a_6,Soil type - Colour
+b_16a_7,Soil type - Colour
+b_16a_8,Soil type - Colour
+b_16a_9,Soil type - Colour
+b_16b_1,Soil type - Texture
+b_16b_2,Soil type - Texture
+b_16b_3,Soil type - Texture
+b_16b_4,Soil type - Texture
+b_16b_5,Soil type - Texture
+b_16b_6,Soil type - Texture
+b_16b_7,Soil type - Texture
+b_16b_8,Soil type - Texture
+b_16b_9,Soil type - Texture
+b_17_1,Soil fertility
+b_17_2,Soil fertility
+b_17_3,Soil fertility
+b_17_4,Soil fertility
+b_17_5,Soil fertility
+b_17_6,Soil fertility
+b_17_7,Soil fertility
+b_17_8,Soil fertility
+b_17_9,Soil fertility
+b_18_1,Slope
+b_18_2,Slope
+b_18_3,Slope
+b_18_4,Slope
+b_18_5,Slope
+b_18_6,Slope
+b_18_7,Slope
+b_18_8,Slope
+b_18_9,Slope
+b_19_1,Ownership status of this land
+b_19_2,Ownership status of this land
+b_19_3,Ownership status of this land
+b_19_4,Ownership status of this land
+b_19_5,Ownership status of this land
+b_19_6,Ownership status of this land
+b_19_7,Ownership status of this land
+b_19_8,Ownership status of this land
+b_19_9,Ownership status of this land
+b_20_10_1,Soil and water conservation practices - (10) fence around
+b_20_10_2,Soil and water conservation practices - (10) fence around
+b_20_10_3,Soil and water conservation practices - (10) fence around
+b_20_10_4,Soil and water conservation practices - (10) fence around
+b_20_10_5,Soil and water conservation practices - (10) fence around
+b_20_10_6,Soil and water conservation practices - (10) fence around
+b_20_10_7,Soil and water conservation practices - (10) fence around
+b_20_10_8,Soil and water conservation practices - (10) fence around
+b_20_10_9,Soil and water conservation practices - (10) fence around
+b_20_11_1,Soil and water conservation practices - (11) left treetrunk on the ground
+b_20_11_2,Soil and water conservation practices - (11) left treetrunk on the ground
+b_20_11_3,Soil and water conservation practices - (11) left treetrunk on the ground
+b_20_11_4,Soil and water conservation practices - (11) left treetrunk on the ground
+b_20_11_5,Soil and water conservation practices - (11) left treetrunk on the ground
+b_20_11_6,Soil and water conservation practices - (11) left treetrunk on the ground
+b_20_11_7,Soil and water conservation practices - (11) left treetrunk on the ground
+b_20_11_8,Soil and water conservation practices - (11) left treetrunk on the ground
+b_20_11_9,Soil and water conservation practices - (11) left treetrunk on the ground
+b_20_1_1,Soil and water conservation practices - (1) Water harvesting
+b_20_1_2,Soil and water conservation practices - (1) Water harvesting
+b_20_1_3,Soil and water conservation practices - (1) Water harvesting
+b_20_1_4,Soil and water conservation practices - (1) Water harvesting
+b_20_1_5,Soil and water conservation practices - (1) Water harvesting
+b_20_1_6,Soil and water conservation practices - (1) Water harvesting
+b_20_1_7,Soil and water conservation practices - (1) Water harvesting
+b_20_1_8,Soil and water conservation practices - (1) Water harvesting
+b_20_1_9,Soil and water conservation practices - (1) Water harvesting
+b_20_2_1,Soil and water conservation practices - (2) Terracing
+b_20_2_2,Soil and water conservation practices - (2) Terracing
+b_20_2_3,Soil and water conservation practices - (2) Terracing
+b_20_2_4,Soil and water conservation practices - (2) Terracing
+b_20_2_5,Soil and water conservation practices - (2) Terracing
+b_20_2_6,Soil and water conservation practices - (2) Terracing
+b_20_2_7,Soil and water conservation practices - (2) Terracing
+b_20_2_8,Soil and water conservation practices - (2) Terracing
+b_20_2_9,Soil and water conservation practices - (2) Terracing
+b_20_3_1,Soil and water conservation practices - (3) Mulching
+b_20_3_2,Soil and water conservation practices - (3) Mulching
+b_20_3_3,Soil and water conservation practices - (3) Mulching
+b_20_3_4,Soil and water conservation practices - (3) Mulching
+b_20_3_5,Soil and water conservation practices - (3) Mulching
+b_20_3_6,Soil and water conservation practices - (3) Mulching
+b_20_3_7,Soil and water conservation practices - (3) Mulching
+b_20_3_8,Soil and water conservation practices - (3) Mulching
+b_20_3_9,Soil and water conservation practices - (3) Mulching
+b_20_4_1,Soil and water conservation practices - (4) Grass strips
+b_20_4_2,Soil and water conservation practices - (4) Grass strips
+b_20_4_3,Soil and water conservation practices - (4) Grass strips
+b_20_4_4,Soil and water conservation practices - (4) Grass strips
+b_20_4_5,Soil and water conservation practices - (4) Grass strips
+b_20_4_6,Soil and water conservation practices - (4) Grass strips
+b_20_4_7,Soil and water conservation practices - (4) Grass strips
+b_20_4_8,Soil and water conservation practices - (4) Grass strips
+b_20_4_9,Soil and water conservation practices - (4) Grass strips
+b_20_5_1,Soil and water conservation practices - (5) Tree planting
+b_20_5_2,Soil and water conservation practices - (5) Tree planting
+b_20_5_3,Soil and water conservation practices - (5) Tree planting
+b_20_5_4,Soil and water conservation practices - (5) Tree planting
+b_20_5_5,Soil and water conservation practices - (5) Tree planting
+b_20_5_6,Soil and water conservation practices - (5) Tree planting
+b_20_5_7,Soil and water conservation practices - (5) Tree planting
+b_20_5_8,Soil and water conservation practices - (5) Tree planting
+b_20_5_9,Soil and water conservation practices - (5) Tree planting
+b_20_6_1,Soil and water conservation practices - (6) Soil bunds
+b_20_6_2,Soil and water conservation practices - (6) Soil bunds
+b_20_6_3,Soil and water conservation practices - (6) Soil bunds
+b_20_6_4,Soil and water conservation practices - (6) Soil bunds
+b_20_6_5,Soil and water conservation practices - (6) Soil bunds
+b_20_6_6,Soil and water conservation practices - (6) Soil bunds
+b_20_6_7,Soil and water conservation practices - (6) Soil bunds
+b_20_6_8,Soil and water conservation practices - (6) Soil bunds
+b_20_6_9,Soil and water conservation practices - (6) Soil bunds
+b_20_7_1,Soil and water conservation practices - (7) Stone bunds
+b_20_7_2,Soil and water conservation practices - (7) Stone bunds
+b_20_7_3,Soil and water conservation practices - (7) Stone bunds
+b_20_7_4,Soil and water conservation practices - (7) Stone bunds
+b_20_7_5,Soil and water conservation practices - (7) Stone bunds
+b_20_7_6,Soil and water conservation practices - (7) Stone bunds
+b_20_7_7,Soil and water conservation practices - (7) Stone bunds
+b_20_7_8,Soil and water conservation practices - (7) Stone bunds
+b_20_7_9,Soil and water conservation practices - (7) Stone bunds
+b_20_8_1,Soil and water conservation practices - (8) Minimum tillage
+b_20_8_2,Soil and water conservation practices - (8) Minimum tillage
+b_20_8_3,Soil and water conservation practices - (8) Minimum tillage
+b_20_8_4,Soil and water conservation practices - (8) Minimum tillage
+b_20_8_5,Soil and water conservation practices - (8) Minimum tillage
+b_20_8_6,Soil and water conservation practices - (8) Minimum tillage
+b_20_8_7,Soil and water conservation practices - (8) Minimum tillage
+b_20_8_8,Soil and water conservation practices - (8) Minimum tillage
+b_20_8_9,Soil and water conservation practices - (8) Minimum tillage
+b_21_1,Irrigation
+b_21_2,Irrigation
+b_21_3,Irrigation
+b_21_4,Irrigation
+b_21_5,Irrigation
+b_21_6,Irrigation
+b_21_7,Irrigation
+b_21_8,Irrigation
+b_21_9,Irrigation
+plot_id1,Household_id + Plot code
+plot_id2,Household_id + Plot code
+plot_id3,Household_id + Plot code
+plot_id4,Household_id + Plot code
+plot_id5,Household_id + Plot code
+plot_id6,Household_id + Plot code
+plot_id7,Household_id + Plot code
+plot_id8,Household_id + Plot code
+plot_id9,Household_id + Plot code
+total_cassava_land,Total cassava land in each HH
+b_22_1,Crop grown plot last year
+b_22_2,Crop grown plot last year
+b_22_3,Crop grown plot last year
+b_22_4,Crop grown plot last year
+b_22_5,Crop grown plot last year
+b_22_6,Crop grown plot last year
+b_22_7,Crop grown plot last year
+b_22_8,Crop grown plot last year
+b_22_9,Crop grown plot last year
+b_23_1,Intercropping
+b_23_2,Intercropping
+b_23_3,Intercropping
+b_23_4,Intercropping
+b_23_5,Intercropping
+b_23_6,Intercropping
+b_23_7,Intercropping
+b_23_8,Intercropping
+b_23_9,Intercropping
+b_24_1,Intercropping-mention the crops
+b_24_2,Intercropping-mention the crops
+b_24_3,Intercropping-mention the crops
+b_24_4,Intercropping-mention the crops
+b_24_5,Intercropping-mention the crops
+b_24_6,Intercropping-mention the crops
+b_24_7,Intercropping-mention the crops
+b_24_8,Intercropping-mention the crops
+b_24_9,Intercropping-mention the crops
+b_25_1,Who manage this plot
+b_25_2,Who manage this plot
+b_25_3,Who manage this plot
+b_25_4,Who manage this plot
+b_25_5,Who manage this plot
+b_25_6,Who manage this plot
+b_25_7,Who manage this plot
+b_25_8,Who manage this plot
+b_25_9,Who manage this plot
+b_26a_1,Planting density Cassava- 1 number
+b_26a_2,Planting density Cassava- 1 number
+b_26a_3,Planting density Cassava- 1 number
+b_26a_4,Planting density Cassava- 1 number
+b_26a_5,Planting density Cassava- 1 number
+b_26a_6,Planting density Cassava- 1 number
+b_26a_7,Planting density Cassava- 1 number
+b_26a_8,Planting density Cassava- 1 number
+b_26a_9,Planting density Cassava- 1 number
+b_26b_1,Planting density Cassava- 2 number
+b_26b_2,Planting density Cassava- 2 number
+b_26b_3,Planting density Cassava- 2 number
+b_26b_4,Planting density Cassava- 2 number
+b_26b_5,Planting density Cassava- 2 number
+b_26b_6,Planting density Cassava- 2 number
+b_26b_7,Planting density Cassava- 2 number
+b_26b_8,Planting density Cassava- 2 number
+b_26b_9,Planting density Cassava- 2 number
+b_26c_1,Planting density Cassava- unit
+b_26c_2,Planting density Cassava- unit
+b_26c_3,Planting density Cassava- unit
+b_26c_4,Planting density Cassava- unit
+b_26c_5,Planting density Cassava- unit
+b_26c_6,Planting density Cassava- unit
+b_26c_7,Planting density Cassava- unit
+b_26c_8,Planting density Cassava- unit
+b_26c_9,Planting density Cassava- unit
+b_27_1,Percentage of planting material of Cassava used in plot
+b_27_2,Percentage of planting material of Cassava used in plot
+b_27_3,Percentage of planting material of Cassava used in plot
+b_27_4,Percentage of planting material of Cassava used in plot
+b_27_5,Percentage of planting material of Cassava used in plot
+b_27_6,Percentage of planting material of Cassava used in plot
+b_27_7,Percentage of planting material of Cassava used in plot
+b_27_8,Percentage of planting material of Cassava used in plot
+b_27_9,Percentage of planting material of Cassava used in plot
+c_6_1,Source of planting material this season
+c_6_2,Source of planting material this season
+c_6_3,Source of planting material this season
+c_6_4,Source of planting material this season
+c_6_5,Source of planting material this season
+c_6_6,Source of planting material this season
+c_6_7,Source of planting material this season
+c_6_8,Source of planting material this season
+c_6_9,Source of planting material this season
+density1,1 density
+density2,2 density
+density3,3 density
+density4,4 density
+density5,5 density
+density6,6 density
+density7,7 density
+density8,8 density
+density9,9 density
+b_11c_1,Plot code
+b_11c_2,Plot code
+b_11c_3,Plot code
+b_11c_4,Plot code
+b_11c_5,Plot code
+b_11c_6,Plot code
+b_11c_7,Plot code
+b_11c_8,Plot code
+b_11c_9,Plot code
+b_28a_1,Animal draft power and use of tractor-Oxen/buffalo
+b_28a_2,Animal draft power and use of tractor-Oxen/buffalo
+b_28a_3,Animal draft power and use of tractor-Oxen/buffalo
+b_28a_4,Animal draft power and use of tractor-Oxen/buffalo
+b_28a_5,Animal draft power and use of tractor-Oxen/buffalo
+b_28a_6,Animal draft power and use of tractor-Oxen/buffalo
+b_28a_7,Animal draft power and use of tractor-Oxen/buffalo
+b_28a_8,Animal draft power and use of tractor-Oxen/buffalo
+b_28a_9,Animal draft power and use of tractor-Oxen/buffalo
+b_28b_1,Animal draft power and use of tractor-Tractor
+b_28b_2,Animal draft power and use of tractor-Tractor
+b_28b_3,Animal draft power and use of tractor-Tractor
+b_28b_4,Animal draft power and use of tractor-Tractor
+b_28b_5,Animal draft power and use of tractor-Tractor
+b_28b_6,Animal draft power and use of tractor-Tractor
+b_28b_7,Animal draft power and use of tractor-Tractor
+b_28b_8,Animal draft power and use of tractor-Tractor
+b_28b_9,Animal draft power and use of tractor-Tractor
+b_29_1a_1,Total labour use-Land preparation (1)
+b_29_1a_2,Total labour use-Land preparation (1)
+b_29_1a_3,Total labour use-Land preparation (1)
+b_29_1a_4,Total labour use-Land preparation (1)
+b_29_1a_5,Total labour use-Land preparation (1)
+b_29_1a_6,Total labour use-Land preparation (1)
+b_29_1a_7,Total labour use-Land preparation (1)
+b_29_1a_8,Total labour use-Land preparation (1)
+b_29_1a_9,Total labour use-Land preparation (1)
+b_29_1b_1,Total labour use-Share of hired labour (1)
+b_29_1b_2,Total labour use-Share of hired labour (1)
+b_29_1b_3,Total labour use-Share of hired labour (1)
+b_29_1b_4,Total labour use-Share of hired labour (1)
+b_29_1b_5,Total labour use-Share of hired labour (1)
+b_29_1b_6,Total labour use-Share of hired labour (1)
+b_29_1b_7,Total labour use-Share of hired labour (1)
+b_29_1b_8,Total labour use-Share of hired labour (1)
+b_29_1b_9,Total labour use-Share of hired labour (1)
+b_29_2a_1,Total labour use-Planting (2)
+b_29_2a_2,Total labour use-Planting (2)
+b_29_2a_3,Total labour use-Planting (2)
+b_29_2a_4,Total labour use-Planting (2)
+b_29_2a_5,Total labour use-Planting (2)
+b_29_2a_6,Total labour use-Planting (2)
+b_29_2a_7,Total labour use-Planting (2)
+b_29_2a_8,Total labour use-Planting (2)
+b_29_2a_9,Total labour use-Planting (2)
+b_29_2b_1,Total labour use-Share of hired labour (2)
+b_29_2b_2,Total labour use-Share of hired labour (2)
+b_29_2b_3,Total labour use-Share of hired labour (2)
+b_29_2b_4,Total labour use-Share of hired labour (2)
+b_29_2b_5,Total labour use-Share of hired labour (2)
+b_29_2b_6,Total labour use-Share of hired labour (2)
+b_29_2b_7,Total labour use-Share of hired labour (2)
+b_29_2b_8,Total labour use-Share of hired labour (2)
+b_29_2b_9,Total labour use-Share of hired labour (2)
+b_29_3a_1,Total labour use-Weeding (3)
+b_29_3a_2,Total labour use-Weeding (3)
+b_29_3a_3,Total labour use-Weeding (3)
+b_29_3a_4,Total labour use-Weeding (3)
+b_29_3a_5,Total labour use-Weeding (3)
+b_29_3a_6,Total labour use-Weeding (3)
+b_29_3a_7,Total labour use-Weeding (3)
+b_29_3a_8,Total labour use-Weeding (3)
+b_29_3a_9,Total labour use-Weeding (3)
+b_29_3b_1,Total labour use-Share of hire labour (3)
+b_29_3b_2,Total labour use-Share of hire labour (3)
+b_29_3b_3,Total labour use-Share of hire labour (3)
+b_29_3b_4,Total labour use-Share of hire labour (3)
+b_29_3b_5,Total labour use-Share of hire labour (3)
+b_29_3b_6,Total labour use-Share of hire labour (3)
+b_29_3b_7,Total labour use-Share of hire labour (3)
+b_29_3b_8,Total labour use-Share of hire labour (3)
+b_29_3b_9,Total labour use-Share of hire labour (3)
+b_11d_1,Plot code
+b_11d_10,Plot code
+b_11d_11,Plot code
+b_11d_12,Plot code
+b_11d_13,Plot code
+b_11d_14,Plot code
+b_11d_15,Plot code
+b_11d_16,Plot code
+b_11d_17,Plot code
+b_11d_18,Plot code
+b_11d_19,Plot code
+b_11d_2,Plot code
+b_11d_20,Plot code
+b_11d_21,Plot code
+b_11d_22,Plot code
+b_11d_23,Plot code
+b_11d_24,Plot code
+b_11d_25,Plot code
+b_11d_26,Plot code
+b_11d_27,Plot code
+b_11d_28,Plot code
+b_11d_29,Plot code
+b_11d_3,Plot code
+b_11d_30,Plot code
+b_11d_4,Plot code
+b_11d_5,Plot code
+b_11d_6,Plot code
+b_11d_7,Plot code
+b_11d_8,Plot code
+b_11d_9,Plot code
+b_30_1,Fertilizer application
+b_30_10,Fertilizer application
+b_30_11,Fertilizer application
+b_30_12,Fertilizer application
+b_30_13,Fertilizer application
+b_30_14,Fertilizer application
+b_30_15,Fertilizer application
+b_30_16,Fertilizer application
+b_30_17,Fertilizer application
+b_30_18,Fertilizer application
+b_30_19,Fertilizer application
+b_30_2,Fertilizer application
+b_30_20,Fertilizer application
+b_30_21,Fertilizer application
+b_30_22,Fertilizer application
+b_30_23,Fertilizer application
+b_30_24,Fertilizer application
+b_30_25,Fertilizer application
+b_30_26,Fertilizer application
+b_30_27,Fertilizer application
+b_30_28,Fertilizer application
+b_30_29,Fertilizer application
+b_30_3,Fertilizer application
+b_30_30,Fertilizer application
+b_30_4,Fertilizer application
+b_30_5,Fertilizer application
+b_30_6,Fertilizer application
+b_30_7,Fertilizer application
+b_30_8,Fertilizer application
+b_30_9,Fertilizer application
+b_31_1_1,Amount applied: NPK
+b_31_1_10,Amount applied: NPK
+b_31_1_11,Amount applied: NPK
+b_31_1_12,Amount applied: NPK
+b_31_1_13,Amount applied: NPK
+b_31_1_14,Amount applied: NPK
+b_31_1_15,Amount applied: NPK
+b_31_1_16,Amount applied: NPK
+b_31_1_17,Amount applied: NPK
+b_31_1_18,Amount applied: NPK
+b_31_1_19,Amount applied: NPK
+b_31_1_2,Amount applied: NPK
+b_31_1_20,Amount applied: NPK
+b_31_1_21,Amount applied: NPK
+b_31_1_22,Amount applied: NPK
+b_31_1_23,Amount applied: NPK
+b_31_1_24,Amount applied: NPK
+b_31_1_25,Amount applied: NPK
+b_31_1_26,Amount applied: NPK
+b_31_1_27,Amount applied: NPK
+b_31_1_28,Amount applied: NPK
+b_31_1_29,Amount applied: NPK
+b_31_1_3,Amount applied: NPK
+b_31_1_30,Amount applied: NPK
+b_31_1_4,Amount applied: NPK
+b_31_1_5,Amount applied: NPK
+b_31_1_6,Amount applied: NPK
+b_31_1_7,Amount applied: NPK
+b_31_1_8,Amount applied: NPK
+b_31_1_9,Amount applied: NPK
+b_31_2_1,Amount applied: Urea
+b_31_2_10,Amount applied: Urea
+b_31_2_11,Amount applied: Urea
+b_31_2_12,Amount applied: Urea
+b_31_2_13,Amount applied: Urea
+b_31_2_14,Amount applied: Urea
+b_31_2_15,Amount applied: Urea
+b_31_2_16,Amount applied: Urea
+b_31_2_17,Amount applied: Urea
+b_31_2_18,Amount applied: Urea
+b_31_2_19,Amount applied: Urea
+b_31_2_2,Amount applied: Urea
+b_31_2_20,Amount applied: Urea
+b_31_2_21,Amount applied: Urea
+b_31_2_22,Amount applied: Urea
+b_31_2_23,Amount applied: Urea
+b_31_2_24,Amount applied: Urea
+b_31_2_25,Amount applied: Urea
+b_31_2_26,Amount applied: Urea
+b_31_2_27,Amount applied: Urea
+b_31_2_28,Amount applied: Urea
+b_31_2_29,Amount applied: Urea
+b_31_2_3,Amount applied: Urea
+b_31_2_30,Amount applied: Urea
+b_31_2_4,Amount applied: Urea
+b_31_2_5,Amount applied: Urea
+b_31_2_6,Amount applied: Urea
+b_31_2_7,Amount applied: Urea
+b_31_2_8,Amount applied: Urea
+b_31_2_9,Amount applied: Urea
+b_31_3_1,Amount applied: Potassium
+b_31_3_10,Amount applied: Potassium
+b_31_3_11,Amount applied: Potassium
+b_31_3_12,Amount applied: Potassium
+b_31_3_13,Amount applied: Potassium
+b_31_3_14,Amount applied: Potassium
+b_31_3_15,Amount applied: Potassium
+b_31_3_16,Amount applied: Potassium
+b_31_3_17,Amount applied: Potassium
+b_31_3_18,Amount applied: Potassium
+b_31_3_19,Amount applied: Potassium
+b_31_3_2,Amount applied: Potassium
+b_31_3_20,Amount applied: Potassium
+b_31_3_21,Amount applied: Potassium
+b_31_3_22,Amount applied: Potassium
+b_31_3_23,Amount applied: Potassium
+b_31_3_24,Amount applied: Potassium
+b_31_3_25,Amount applied: Potassium
+b_31_3_26,Amount applied: Potassium
+b_31_3_27,Amount applied: Potassium
+b_31_3_28,Amount applied: Potassium
+b_31_3_29,Amount applied: Potassium
+b_31_3_3,Amount applied: Potassium
+b_31_3_30,Amount applied: Potassium
+b_31_3_4,Amount applied: Potassium
+b_31_3_5,Amount applied: Potassium
+b_31_3_6,Amount applied: Potassium
+b_31_3_7,Amount applied: Potassium
+b_31_3_8,Amount applied: Potassium
+b_31_3_9,Amount applied: Potassium
+b_31_4_1,Amount applied: Phosphors
+b_31_4_10,Amount applied: Phosphors
+b_31_4_11,Amount applied: Phosphors
+b_31_4_12,Amount applied: Phosphors
+b_31_4_13,Amount applied: Phosphors
+b_31_4_14,Amount applied: Phosphors
+b_31_4_15,Amount applied: Phosphors
+b_31_4_16,Amount applied: Phosphors
+b_31_4_17,Amount applied: Phosphors
+b_31_4_18,Amount applied: Phosphors
+b_31_4_19,Amount applied: Phosphors
+b_31_4_2,Amount applied: Phosphors
+b_31_4_20,Amount applied: Phosphors
+b_31_4_21,Amount applied: Phosphors
+b_31_4_22,Amount applied: Phosphors
+b_31_4_23,Amount applied: Phosphors
+b_31_4_24,Amount applied: Phosphors
+b_31_4_25,Amount applied: Phosphors
+b_31_4_26,Amount applied: Phosphors
+b_31_4_27,Amount applied: Phosphors
+b_31_4_28,Amount applied: Phosphors
+b_31_4_29,Amount applied: Phosphors
+b_31_4_3,Amount applied: Phosphors
+b_31_4_30,Amount applied: Phosphors
+b_31_4_4,Amount applied: Phosphors
+b_31_4_5,Amount applied: Phosphors
+b_31_4_6,Amount applied: Phosphors
+b_31_4_7,Amount applied: Phosphors
+b_31_4_8,Amount applied: Phosphors
+b_31_4_9,Amount applied: Phosphors
+b_31_5_1,Amount applied: Manure
+b_31_5_10,Amount applied: Manure
+b_31_5_11,Amount applied: Manure
+b_31_5_12,Amount applied: Manure
+b_31_5_13,Amount applied: Manure
+b_31_5_14,Amount applied: Manure
+b_31_5_15,Amount applied: Manure
+b_31_5_16,Amount applied: Manure
+b_31_5_17,Amount applied: Manure
+b_31_5_18,Amount applied: Manure
+b_31_5_19,Amount applied: Manure
+b_31_5_2,Amount applied: Manure
+b_31_5_20,Amount applied: Manure
+b_31_5_21,Amount applied: Manure
+b_31_5_22,Amount applied: Manure
+b_31_5_23,Amount applied: Manure
+b_31_5_24,Amount applied: Manure
+b_31_5_25,Amount applied: Manure
+b_31_5_26,Amount applied: Manure
+b_31_5_27,Amount applied: Manure
+b_31_5_28,Amount applied: Manure
+b_31_5_29,Amount applied: Manure
+b_31_5_3,Amount applied: Manure
+b_31_5_30,Amount applied: Manure
+b_31_5_4,Amount applied: Manure
+b_31_5_5,Amount applied: Manure
+b_31_5_6,Amount applied: Manure
+b_31_5_7,Amount applied: Manure
+b_31_5_8,Amount applied: Manure
+b_31_5_9,Amount applied: Manure
+b_31_6_1,Amount applied: Other
+b_31_6_10,Amount applied: Other
+b_31_6_11,Amount applied: Other
+b_31_6_12,Amount applied: Other
+b_31_6_13,Amount applied: Other
+b_31_6_14,Amount applied: Other
+b_31_6_15,Amount applied: Other
+b_31_6_16,Amount applied: Other
+b_31_6_17,Amount applied: Other
+b_31_6_18,Amount applied: Other
+b_31_6_19,Amount applied: Other
+b_31_6_2,Amount applied: Other
+b_31_6_20,Amount applied: Other
+b_31_6_21,Amount applied: Other
+b_31_6_22,Amount applied: Other
+b_31_6_23,Amount applied: Other
+b_31_6_24,Amount applied: Other
+b_31_6_25,Amount applied: Other
+b_31_6_26,Amount applied: Other
+b_31_6_27,Amount applied: Other
+b_31_6_28,Amount applied: Other
+b_31_6_29,Amount applied: Other
+b_31_6_3,Amount applied: Other
+b_31_6_30,Amount applied: Other
+b_31_6_4,Amount applied: Other
+b_31_6_5,Amount applied: Other
+b_31_6_6,Amount applied: Other
+b_31_6_7,Amount applied: Other
+b_31_6_8,Amount applied: Other
+b_31_6_9,Amount applied: Other
+b_31_6b_1,"Amount applied: Other, sp"
+b_31_6b_10,"Amount applied: Other, sp"
+b_31_6b_11,"Amount applied: Other, sp"
+b_31_6b_12,"Amount applied: Other, sp"
+b_31_6b_13,"Amount applied: Other, sp"
+b_31_6b_14,"Amount applied: Other, sp"
+b_31_6b_15,"Amount applied: Other, sp"
+b_31_6b_16,"Amount applied: Other, sp"
+b_31_6b_17,"Amount applied: Other, sp"
+b_31_6b_18,"Amount applied: Other, sp"
+b_31_6b_19,"Amount applied: Other, sp"
+b_31_6b_2,"Amount applied: Other, sp"
+b_31_6b_20,"Amount applied: Other, sp"
+b_31_6b_21,"Amount applied: Other, sp"
+b_31_6b_22,"Amount applied: Other, sp"
+b_31_6b_23,"Amount applied: Other, sp"
+b_31_6b_24,"Amount applied: Other, sp"
+b_31_6b_25,"Amount applied: Other, sp"
+b_31_6b_26,"Amount applied: Other, sp"
+b_31_6b_27,"Amount applied: Other, sp"
+b_31_6b_28,"Amount applied: Other, sp"
+b_31_6b_29,"Amount applied: Other, sp"
+b_31_6b_3,"Amount applied: Other, sp"
+b_31_6b_30,"Amount applied: Other, sp"
+b_31_6b_4,"Amount applied: Other, sp"
+b_31_6b_5,"Amount applied: Other, sp"
+b_31_6b_6,"Amount applied: Other, sp"
+b_31_6b_7,"Amount applied: Other, sp"
+b_31_6b_8,"Amount applied: Other, sp"
+b_31_6b_9,"Amount applied: Other, sp"
+b_32_k_1,Formula for NPK: K
+b_32_k_10,Formula for NPK: K
+b_32_k_11,Formula for NPK: K
+b_32_k_12,Formula for NPK: K
+b_32_k_13,Formula for NPK: K
+b_32_k_14,Formula for NPK: K
+b_32_k_15,Formula for NPK: K
+b_32_k_16,Formula for NPK: K
+b_32_k_17,Formula for NPK: K
+b_32_k_18,Formula for NPK: K
+b_32_k_19,Formula for NPK: K
+b_32_k_2,Formula for NPK: K
+b_32_k_20,Formula for NPK: K
+b_32_k_21,Formula for NPK: K
+b_32_k_22,Formula for NPK: K
+b_32_k_23,Formula for NPK: K
+b_32_k_24,Formula for NPK: K
+b_32_k_25,Formula for NPK: K
+b_32_k_26,Formula for NPK: K
+b_32_k_27,Formula for NPK: K
+b_32_k_28,Formula for NPK: K
+b_32_k_29,Formula for NPK: K
+b_32_k_3,Formula for NPK: K
+b_32_k_30,Formula for NPK: K
+b_32_k_4,Formula for NPK: K
+b_32_k_5,Formula for NPK: K
+b_32_k_6,Formula for NPK: K
+b_32_k_7,Formula for NPK: K
+b_32_k_8,Formula for NPK: K
+b_32_k_9,Formula for NPK: K
+b_32_n_1,Formula for NPK: N
+b_32_n_10,Formula for NPK: N
+b_32_n_11,Formula for NPK: N
+b_32_n_12,Formula for NPK: N
+b_32_n_13,Formula for NPK: N
+b_32_n_14,Formula for NPK: N
+b_32_n_15,Formula for NPK: N
+b_32_n_16,Formula for NPK: N
+b_32_n_17,Formula for NPK: N
+b_32_n_18,Formula for NPK: N
+b_32_n_19,Formula for NPK: N
+b_32_n_2,Formula for NPK: N
+b_32_n_20,Formula for NPK: N
+b_32_n_21,Formula for NPK: N
+b_32_n_22,Formula for NPK: N
+b_32_n_23,Formula for NPK: N
+b_32_n_24,Formula for NPK: N
+b_32_n_25,Formula for NPK: N
+b_32_n_26,Formula for NPK: N
+b_32_n_27,Formula for NPK: N
+b_32_n_28,Formula for NPK: N
+b_32_n_29,Formula for NPK: N
+b_32_n_3,Formula for NPK: N
+b_32_n_30,Formula for NPK: N
+b_32_n_4,Formula for NPK: N
+b_32_n_5,Formula for NPK: N
+b_32_n_6,Formula for NPK: N
+b_32_n_7,Formula for NPK: N
+b_32_n_8,Formula for NPK: N
+b_32_n_9,Formula for NPK: N
+b_32_o1_1,Formula for NPK: Other component - name
+b_32_o1_10,Formula for NPK: Other component - name
+b_32_o1_11,Formula for NPK: Other component - name
+b_32_o1_12,Formula for NPK: Other component - name
+b_32_o1_13,Formula for NPK: Other component - name
+b_32_o1_14,Formula for NPK: Other component - name
+b_32_o1_15,Formula for NPK: Other component - name
+b_32_o1_16,Formula for NPK: Other component - name
+b_32_o1_17,Formula for NPK: Other component - name
+b_32_o1_18,Formula for NPK: Other component - name
+b_32_o1_19,Formula for NPK: Other component - name
+b_32_o1_2,Formula for NPK: Other component - name
+b_32_o1_20,Formula for NPK: Other component - name
+b_32_o1_21,Formula for NPK: Other component - name
+b_32_o1_22,Formula for NPK: Other component - name
+b_32_o1_23,Formula for NPK: Other component - name
+b_32_o1_24,Formula for NPK: Other component - name
+b_32_o1_25,Formula for NPK: Other component - name
+b_32_o1_26,Formula for NPK: Other component - name
+b_32_o1_27,Formula for NPK: Other component - name
+b_32_o1_28,Formula for NPK: Other component - name
+b_32_o1_29,Formula for NPK: Other component - name
+b_32_o1_3,Formula for NPK: Other component - name
+b_32_o1_30,Formula for NPK: Other component - name
+b_32_o1_4,Formula for NPK: Other component - name
+b_32_o1_5,Formula for NPK: Other component - name
+b_32_o1_6,Formula for NPK: Other component - name
+b_32_o1_7,Formula for NPK: Other component - name
+b_32_o1_8,Formula for NPK: Other component - name
+b_32_o1_9,Formula for NPK: Other component - name
+b_32_o2_1,Formula for NPK: Other component - amount
+b_32_o2_10,Formula for NPK: Other component - amount
+b_32_o2_11,Formula for NPK: Other component - amount
+b_32_o2_12,Formula for NPK: Other component - amount
+b_32_o2_13,Formula for NPK: Other component - amount
+b_32_o2_14,Formula for NPK: Other component - amount
+b_32_o2_15,Formula for NPK: Other component - amount
+b_32_o2_16,Formula for NPK: Other component - amount
+b_32_o2_17,Formula for NPK: Other component - amount
+b_32_o2_18,Formula for NPK: Other component - amount
+b_32_o2_19,Formula for NPK: Other component - amount
+b_32_o2_2,Formula for NPK: Other component - amount
+b_32_o2_20,Formula for NPK: Other component - amount
+b_32_o2_21,Formula for NPK: Other component - amount
+b_32_o2_22,Formula for NPK: Other component - amount
+b_32_o2_23,Formula for NPK: Other component - amount
+b_32_o2_24,Formula for NPK: Other component - amount
+b_32_o2_25,Formula for NPK: Other component - amount
+b_32_o2_26,Formula for NPK: Other component - amount
+b_32_o2_27,Formula for NPK: Other component - amount
+b_32_o2_28,Formula for NPK: Other component - amount
+b_32_o2_29,Formula for NPK: Other component - amount
+b_32_o2_3,Formula for NPK: Other component - amount
+b_32_o2_30,Formula for NPK: Other component - amount
+b_32_o2_4,Formula for NPK: Other component - amount
+b_32_o2_5,Formula for NPK: Other component - amount
+b_32_o2_6,Formula for NPK: Other component - amount
+b_32_o2_7,Formula for NPK: Other component - amount
+b_32_o2_8,Formula for NPK: Other component - amount
+b_32_o2_9,Formula for NPK: Other component - amount
+b_32_p_1,Formula for NPK: P
+b_32_p_10,Formula for NPK: P
+b_32_p_11,Formula for NPK: P
+b_32_p_12,Formula for NPK: P
+b_32_p_13,Formula for NPK: P
+b_32_p_14,Formula for NPK: P
+b_32_p_15,Formula for NPK: P
+b_32_p_16,Formula for NPK: P
+b_32_p_17,Formula for NPK: P
+b_32_p_18,Formula for NPK: P
+b_32_p_19,Formula for NPK: P
+b_32_p_2,Formula for NPK: P
+b_32_p_20,Formula for NPK: P
+b_32_p_21,Formula for NPK: P
+b_32_p_22,Formula for NPK: P
+b_32_p_23,Formula for NPK: P
+b_32_p_24,Formula for NPK: P
+b_32_p_25,Formula for NPK: P
+b_32_p_26,Formula for NPK: P
+b_32_p_27,Formula for NPK: P
+b_32_p_28,Formula for NPK: P
+b_32_p_29,Formula for NPK: P
+b_32_p_3,Formula for NPK: P
+b_32_p_30,Formula for NPK: P
+b_32_p_4,Formula for NPK: P
+b_32_p_5,Formula for NPK: P
+b_32_p_6,Formula for NPK: P
+b_32_p_7,Formula for NPK: P
+b_32_p_8,Formula for NPK: P
+b_32_p_9,Formula for NPK: P
+b_33_1_1,When did you apply NPK?
+b_33_1_10,When did you apply NPK?
+b_33_1_11,When did you apply NPK?
+b_33_1_12,When did you apply NPK?
+b_33_1_13,When did you apply NPK?
+b_33_1_14,When did you apply NPK?
+b_33_1_15,When did you apply NPK?
+b_33_1_16,When did you apply NPK?
+b_33_1_17,When did you apply NPK?
+b_33_1_18,When did you apply NPK?
+b_33_1_19,When did you apply NPK?
+b_33_1_2,When did you apply NPK?
+b_33_1_20,When did you apply NPK?
+b_33_1_21,When did you apply NPK?
+b_33_1_22,When did you apply NPK?
+b_33_1_23,When did you apply NPK?
+b_33_1_24,When did you apply NPK?
+b_33_1_25,When did you apply NPK?
+b_33_1_26,When did you apply NPK?
+b_33_1_27,When did you apply NPK?
+b_33_1_28,When did you apply NPK?
+b_33_1_29,When did you apply NPK?
+b_33_1_3,When did you apply NPK?
+b_33_1_30,When did you apply NPK?
+b_33_1_4,When did you apply NPK?
+b_33_1_5,When did you apply NPK?
+b_33_1_6,When did you apply NPK?
+b_33_1_7,When did you apply NPK?
+b_33_1_8,When did you apply NPK?
+b_33_1_9,When did you apply NPK?
+b_33_2_1,When did you apply Urea?
+b_33_2_10,When did you apply Urea?
+b_33_2_11,When did you apply Urea?
+b_33_2_12,When did you apply Urea?
+b_33_2_13,When did you apply Urea?
+b_33_2_14,When did you apply Urea?
+b_33_2_15,When did you apply Urea?
+b_33_2_16,When did you apply Urea?
+b_33_2_17,When did you apply Urea?
+b_33_2_18,When did you apply Urea?
+b_33_2_19,When did you apply Urea?
+b_33_2_2,When did you apply Urea?
+b_33_2_20,When did you apply Urea?
+b_33_2_21,When did you apply Urea?
+b_33_2_22,When did you apply Urea?
+b_33_2_23,When did you apply Urea?
+b_33_2_24,When did you apply Urea?
+b_33_2_25,When did you apply Urea?
+b_33_2_26,When did you apply Urea?
+b_33_2_27,When did you apply Urea?
+b_33_2_28,When did you apply Urea?
+b_33_2_29,When did you apply Urea?
+b_33_2_3,When did you apply Urea?
+b_33_2_30,When did you apply Urea?
+b_33_2_4,When did you apply Urea?
+b_33_2_5,When did you apply Urea?
+b_33_2_6,When did you apply Urea?
+b_33_2_7,When did you apply Urea?
+b_33_2_8,When did you apply Urea?
+b_33_2_9,When did you apply Urea?
+b_33_3_1,When did you apply Potassium?
+b_33_3_10,When did you apply Potassium?
+b_33_3_11,When did you apply Potassium?
+b_33_3_12,When did you apply Potassium?
+b_33_3_13,When did you apply Potassium?
+b_33_3_14,When did you apply Potassium?
+b_33_3_15,When did you apply Potassium?
+b_33_3_16,When did you apply Potassium?
+b_33_3_17,When did you apply Potassium?
+b_33_3_18,When did you apply Potassium?
+b_33_3_19,When did you apply Potassium?
+b_33_3_2,When did you apply Potassium?
+b_33_3_20,When did you apply Potassium?
+b_33_3_21,When did you apply Potassium?
+b_33_3_22,When did you apply Potassium?
+b_33_3_23,When did you apply Potassium?
+b_33_3_24,When did you apply Potassium?
+b_33_3_25,When did you apply Potassium?
+b_33_3_26,When did you apply Potassium?
+b_33_3_27,When did you apply Potassium?
+b_33_3_28,When did you apply Potassium?
+b_33_3_29,When did you apply Potassium?
+b_33_3_3,When did you apply Potassium?
+b_33_3_30,When did you apply Potassium?
+b_33_3_4,When did you apply Potassium?
+b_33_3_5,When did you apply Potassium?
+b_33_3_6,When did you apply Potassium?
+b_33_3_7,When did you apply Potassium?
+b_33_3_8,When did you apply Potassium?
+b_33_3_9,When did you apply Potassium?
+b_33_4_1,When did you apply Phosphors?
+b_33_4_10,When did you apply Phosphors?
+b_33_4_11,When did you apply Phosphors?
+b_33_4_12,When did you apply Phosphors?
+b_33_4_13,When did you apply Phosphors?
+b_33_4_14,When did you apply Phosphors?
+b_33_4_15,When did you apply Phosphors?
+b_33_4_16,When did you apply Phosphors?
+b_33_4_17,When did you apply Phosphors?
+b_33_4_18,When did you apply Phosphors?
+b_33_4_19,When did you apply Phosphors?
+b_33_4_2,When did you apply Phosphors?
+b_33_4_20,When did you apply Phosphors?
+b_33_4_21,When did you apply Phosphors?
+b_33_4_22,When did you apply Phosphors?
+b_33_4_23,When did you apply Phosphors?
+b_33_4_24,When did you apply Phosphors?
+b_33_4_25,When did you apply Phosphors?
+b_33_4_26,When did you apply Phosphors?
+b_33_4_27,When did you apply Phosphors?
+b_33_4_28,When did you apply Phosphors?
+b_33_4_29,When did you apply Phosphors?
+b_33_4_3,When did you apply Phosphors?
+b_33_4_30,When did you apply Phosphors?
+b_33_4_4,When did you apply Phosphors?
+b_33_4_5,When did you apply Phosphors?
+b_33_4_6,When did you apply Phosphors?
+b_33_4_7,When did you apply Phosphors?
+b_33_4_8,When did you apply Phosphors?
+b_33_4_9,When did you apply Phosphors?
+b_33_5_1,When did you apply Manure?
+b_33_5_10,When did you apply Manure?
+b_33_5_11,When did you apply Manure?
+b_33_5_12,When did you apply Manure?
+b_33_5_13,When did you apply Manure?
+b_33_5_14,When did you apply Manure?
+b_33_5_15,When did you apply Manure?
+b_33_5_16,When did you apply Manure?
+b_33_5_17,When did you apply Manure?
+b_33_5_18,When did you apply Manure?
+b_33_5_19,When did you apply Manure?
+b_33_5_2,When did you apply Manure?
+b_33_5_20,When did you apply Manure?
+b_33_5_21,When did you apply Manure?
+b_33_5_22,When did you apply Manure?
+b_33_5_23,When did you apply Manure?
+b_33_5_24,When did you apply Manure?
+b_33_5_25,When did you apply Manure?
+b_33_5_26,When did you apply Manure?
+b_33_5_27,When did you apply Manure?
+b_33_5_28,When did you apply Manure?
+b_33_5_29,When did you apply Manure?
+b_33_5_3,When did you apply Manure?
+b_33_5_30,When did you apply Manure?
+b_33_5_4,When did you apply Manure?
+b_33_5_5,When did you apply Manure?
+b_33_5_6,When did you apply Manure?
+b_33_5_7,When did you apply Manure?
+b_33_5_8,When did you apply Manure?
+b_33_5_9,When did you apply Manure?
+b_33_6_1,When did you apply Other?
+b_33_6_10,When did you apply Other?
+b_33_6_11,When did you apply Other?
+b_33_6_12,When did you apply Other?
+b_33_6_13,When did you apply Other?
+b_33_6_14,When did you apply Other?
+b_33_6_15,When did you apply Other?
+b_33_6_16,When did you apply Other?
+b_33_6_17,When did you apply Other?
+b_33_6_18,When did you apply Other?
+b_33_6_19,When did you apply Other?
+b_33_6_2,When did you apply Other?
+b_33_6_20,When did you apply Other?
+b_33_6_21,When did you apply Other?
+b_33_6_22,When did you apply Other?
+b_33_6_23,When did you apply Other?
+b_33_6_24,When did you apply Other?
+b_33_6_25,When did you apply Other?
+b_33_6_26,When did you apply Other?
+b_33_6_27,When did you apply Other?
+b_33_6_28,When did you apply Other?
+b_33_6_29,When did you apply Other?
+b_33_6_3,When did you apply Other?
+b_33_6_30,When did you apply Other?
+b_33_6_4,When did you apply Other?
+b_33_6_5,When did you apply Other?
+b_33_6_6,When did you apply Other?
+b_33_6_7,When did you apply Other?
+b_33_6_8,When did you apply Other?
+b_33_6_9,When did you apply Other?
+b_11e_1,Plot code
+b_11e_2,Plot code
+b_11e_3,Plot code
+b_11e_4,Plot code
+b_11e_5,Plot code
+b_11e_6,Plot code
+b_11e_7,Plot code
+b_11e_8,Plot code
+b_11e_9,Plot code
+b_34_1,Location: GPS coordinate
+b_34_2,Location: GPS coordinate
+b_34_3,Location: GPS coordinate
+b_34_4,Location: GPS coordinate
+b_34_5,Location: GPS coordinate
+b_34_6,Location: GPS coordinate
+b_34_7,Location: GPS coordinate
+b_34_8,Location: GPS coordinate
+b_34_9,Location: GPS coordinate
+b_34a_1,Location: Altitude
+b_34a_2,Location: Altitude
+b_34a_3,Location: Altitude
+b_34a_4,Location: Altitude
+b_34a_5,Location: Altitude
+b_34a_6,Location: Altitude
+b_34a_7,Location: Altitude
+b_34a_8,Location: Altitude
+b_34a_9,Location: Altitude
+b_34b_1,Location: Latitute
+b_34b_2,Location: Latitute
+b_34b_3,Location: Latitute
+b_34b_4,Location: Latitute
+b_34b_5,Location: Latitute
+b_34b_6,Location: Latitute
+b_34b_7,Location: Latitute
+b_34b_8,Location: Latitute
+b_34b_9,Location: Latitute
+b_34c_1,Location: Longitude
+b_34c_2,Location: Longitude
+b_34c_3,Location: Longitude
+b_34c_4,Location: Longitude
+b_34c_5,Location: Longitude
+b_34c_6,Location: Longitude
+b_34c_7,Location: Longitude
+b_34c_8,Location: Longitude
+b_34c_9,Location: Longitude
+b_34d_1,Location: Gateway point
+b_34d_2,Location: Gateway point
+b_34d_3,Location: Gateway point
+b_34d_4,Location: Gateway point
+b_34d_5,Location: Gateway point
+b_34d_6,Location: Gateway point
+b_34d_7,Location: Gateway point
+b_34d_8,Location: Gateway point
+b_34d_9,Location: Gateway point
+b_34e_1,Location: GPS number
+b_34e_2,Location: GPS number
+b_34e_3,Location: GPS number
+b_34e_4,Location: GPS number
+b_34e_5,Location: GPS number
+b_34e_6,Location: GPS number
+b_34e_7,Location: GPS number
+b_34e_8,Location: GPS number
+b_34e_9,Location: GPS number
+b_35_1,How many cassava varieties do you grow in this plot
+b_35_2,How many cassava varieties do you grow in this plot
+b_35_3,How many cassava varieties do you grow in this plot
+b_35_4,How many cassava varieties do you grow in this plot
+b_35_5,How many cassava varieties do you grow in this plot
+b_35_6,How many cassava varieties do you grow in this plot
+b_35_7,How many cassava varieties do you grow in this plot
+b_35_8,How many cassava varieties do you grow in this plot
+b_35_9,How many cassava varieties do you grow in this plot
+b_41_1,Production estimates for this year (kg)
+b_41_2,Production estimates for this year (kg)
+b_41_3,Production estimates for this year (kg)
+b_41_4,Production estimates for this year (kg)
+b_41_5,Production estimates for this year (kg)
+b_41_6,Production estimates for this year (kg)
+b_41_7,Production estimates for this year (kg)
+b_41_8,Production estimates for this year (kg)
+b_41_9,Production estimates for this year (kg)
+expected_yield1,production per area
+expected_yield2,production per area
+expected_yield3,production per area
+expected_yield4,production per area
+expected_yield5,production per area
+expected_yield6,production per area
+expected_yield7,production per area
+expected_yield8,production per area
+expected_yield9,production per area
+Differences1,Differences
+Differences10,Differences
+Differences11,Differences
+Differences12,Differences
+Differences2,Differences
+Differences3,Differences
+Differences4,Differences
+Differences5,Differences
+Differences6,Differences
+Differences7,Differences
+Differences8,Differences
+Differences9,Differences
+Genotype1,Tag number
+Genotype10,Tag number
+Genotype11,Tag number
+Genotype12,Tag number
+Genotype2,Tag number
+Genotype3,Tag number
+Genotype4,Tag number
+Genotype5,Tag number
+Genotype6,Tag number
+Genotype7,Tag number
+Genotype8,Tag number
+Genotype9,Tag number
+Group1,Group
+Group10,Group
+Group11,Group
+Group12,Group
+Group2,Group
+Group3,Group
+Group4,Group
+Group5,Group
+Group6,Group
+Group7,Group
+Group8,Group
+Group9,Group
+SNPsEvaluated1,SNPs Evaluated
+SNPsEvaluated10,SNPs Evaluated
+SNPsEvaluated11,SNPs Evaluated
+SNPsEvaluated12,SNPs Evaluated
+SNPsEvaluated2,SNPs Evaluated
+SNPsEvaluated3,SNPs Evaluated
+SNPsEvaluated4,SNPs Evaluated
+SNPsEvaluated5,SNPs Evaluated
+SNPsEvaluated6,SNPs Evaluated
+SNPsEvaluated7,SNPs Evaluated
+SNPsEvaluated8,SNPs Evaluated
+SNPsEvaluated9,SNPs Evaluated
+Sampling_Location1,Sampling Location
+Sampling_Location10,Sampling Location
+Sampling_Location11,Sampling Location
+Sampling_Location12,Sampling Location
+Sampling_Location2,Sampling Location
+Sampling_Location3,Sampling Location
+Sampling_Location4,Sampling Location
+Sampling_Location5,Sampling Location
+Sampling_Location6,Sampling Location
+Sampling_Location7,Sampling Location
+Sampling_Location8,Sampling Location
+Sampling_Location9,Sampling Location
+b_11f_1,Plot code
+b_11f_10,Plot code
+b_11f_11,Plot code
+b_11f_12,Plot code
+b_11f_2,Plot code
+b_11f_3,Plot code
+b_11f_4,Plot code
+b_11f_5,Plot code
+b_11f_6,Plot code
+b_11f_7,Plot code
+b_11f_8,Plot code
+b_11f_9,Plot code
+b_14b_10,Plot area in m2
+b_14b_11,Plot area in m2
+b_14b_12,Plot area in m2
+b_35_11,How many cassava varieties currently grow in this plot
+b_35_110,How many cassava varieties currently grow in this plot
+b_35_111,How many cassava varieties currently grow in this plot
+b_35_112,How many cassava varieties currently grow in this plot
+b_35_12,How many cassava varieties currently grow in this plot
+b_35_13,How many cassava varieties currently grow in this plot
+b_35_14,How many cassava varieties currently grow in this plot
+b_35_15,How many cassava varieties currently grow in this plot
+b_35_16,How many cassava varieties currently grow in this plot
+b_35_17,How many cassava varieties currently grow in this plot
+b_35_18,How many cassava varieties currently grow in this plot
+b_35_19,How many cassava varieties currently grow in this plot
+b_36_1,Variety name
+b_36_10,Variety name
+b_36_11,Variety name
+b_36_12,Variety name
+b_36_2,Variety name
+b_36_3,Variety name
+b_36_4,Variety name
+b_36_5,Variety name
+b_36_6,Variety name
+b_36_7,Variety name
+b_36_8,Variety name
+b_36_9,Variety name
+b_37_1,Variety code
+b_37_10,Variety code
+b_37_11,Variety code
+b_37_12,Variety code
+b_37_2,Variety code
+b_37_3,Variety code
+b_37_4,Variety code
+b_37_5,Variety code
+b_37_6,Variety code
+b_37_7,Variety code
+b_37_8,Variety code
+b_37_9,Variety code
+b_39_1,What percentage of this plot is planted with this variety?
+b_39_10,What percentage of this plot is planted with this variety?
+b_39_11,What percentage of this plot is planted with this variety?
+b_39_12,What percentage of this plot is planted with this variety?
+b_39_2,What percentage of this plot is planted with this variety?
+b_39_3,What percentage of this plot is planted with this variety?
+b_39_4,What percentage of this plot is planted with this variety?
+b_39_5,What percentage of this plot is planted with this variety?
+b_39_6,What percentage of this plot is planted with this variety?
+b_39_7,What percentage of this plot is planted with this variety?
+b_39_8,What percentage of this plot is planted with this variety?
+b_39_9,What percentage of this plot is planted with this variety?
+b_40_1,Production estimates for this year (kg) for this variety
+b_40_10,Production estimates for this year (kg) for this variety
+b_40_11,Production estimates for this year (kg) for this variety
+b_40_12,Production estimates for this year (kg) for this variety
+b_40_2,Production estimates for this year (kg) for this variety
+b_40_3,Production estimates for this year (kg) for this variety
+b_40_4,Production estimates for this year (kg) for this variety
+b_40_5,Production estimates for this year (kg) for this variety
+b_40_6,Production estimates for this year (kg) for this variety
+b_40_7,Production estimates for this year (kg) for this variety
+b_40_8,Production estimates for this year (kg) for this variety
+b_40_9,Production estimates for this year (kg) for this variety
+b_40b_1,Production estimates for total of varieties in (plot level)
+b_40b_10,Production estimates for total of varieties in (plot level)
+b_40b_11,Production estimates for total of varieties in (plot level)
+b_40b_12,Production estimates for total of varieties in (plot level)
+b_40b_2,Production estimates for total of varieties in (plot level)
+b_40b_3,Production estimates for total of varieties in (plot level)
+b_40b_4,Production estimates for total of varieties in (plot level)
+b_40b_5,Production estimates for total of varieties in (plot level)
+b_40b_6,Production estimates for total of varieties in (plot level)
+b_40b_7,Production estimates for total of varieties in (plot level)
+b_40b_8,Production estimates for total of varieties in (plot level)
+b_40b_9,Production estimates for total of varieties in (plot level)
+plot_id10,Plot ID 
+plot_id11,Plot ID 
+plot_id12,Plot ID 
+var_area1,Area of each variety in each plot
+var_area10,Area of each variety in each plot
+var_area11,Area of each variety in each plot
+var_area12,Area of each variety in each plot
+var_area2,Area of each variety in each plot
+var_area3,Area of each variety in each plot
+var_area4,Area of each variety in each plot
+var_area5,Area of each variety in each plot
+var_area6,Area of each variety in each plot
+var_area7,Area of each variety in each plot
+var_area8,Area of each variety in each plot
+var_area9,Area of each variety in each plot
+var_yield1,Yield of each variaty in each plot (ton/ha)
+var_yield10,Yield of each variaty in each plot (ton/ha)
+var_yield11,Yield of each variaty in each plot (ton/ha)
+var_yield12,Yield of each variaty in each plot (ton/ha)
+var_yield2,Yield of each variaty in each plot (ton/ha)
+var_yield3,Yield of each variaty in each plot (ton/ha)
+var_yield4,Yield of each variaty in each plot (ton/ha)
+var_yield5,Yield of each variaty in each plot (ton/ha)
+var_yield6,Yield of each variaty in each plot (ton/ha)
+var_yield7,Yield of each variaty in each plot (ton/ha)
+var_yield8,Yield of each variaty in each plot (ton/ha)
+var_yield9,Yield of each variaty in each plot (ton/ha)
+c_10_1a_1,What do you like about this variety? (1)
+c_10_1a_2,What do you like about this variety? (1)
+c_10_1a_3,What do you like about this variety? (1)
+c_10_1a_4,What do you like about this variety? (1)
+c_10_1a_5,What do you like about this variety? (1)
+c_10_1a_6,What do you like about this variety? (1)
+c_10_2a_1,What do you like about this variety? (2)
+c_10_2a_2,What do you like about this variety? (2)
+c_10_2a_3,What do you like about this variety? (2)
+c_10_2a_4,What do you like about this variety? (2)
+c_10_2a_5,What do you like about this variety? (2)
+c_10_2a_6,What do you like about this variety? (2)
+c_10_3a_1,What do you like about this variety? (3)
+c_10_3a_2,What do you like about this variety? (3)
+c_10_3a_3,What do you like about this variety? (3)
+c_10_3a_4,What do you like about this variety? (3)
+c_10_3a_5,What do you like about this variety? (3)
+c_10_3a_6,What do you like about this variety? (3)
+c_11_1a_1,What do you not like about this variety? (1)
+c_11_1a_2,What do you not like about this variety? (1)
+c_11_1a_3,What do you not like about this variety? (1)
+c_11_1a_4,What do you not like about this variety? (1)
+c_11_1a_5,What do you not like about this variety? (1)
+c_11_1a_6,What do you not like about this variety? (1)
+c_11_2a_1,What do you not like about this variety? (2)
+c_11_2a_2,What do you not like about this variety? (2)
+c_11_2a_3,What do you not like about this variety? (2)
+c_11_2a_4,What do you not like about this variety? (2)
+c_11_2a_5,What do you not like about this variety? (2)
+c_11_2a_6,What do you not like about this variety? (2)
+c_11_3a_1,What do you not like about this variety? (3)
+c_11_3a_2,What do you not like about this variety? (3)
+c_11_3a_3,What do you not like about this variety? (3)
+c_11_3a_4,What do you not like about this variety? (3)
+c_11_3a_5,What do you not like about this variety? (3)
+c_11_3a_6,What do you not like about this variety? (3)
+c_1_1,Variety name
+c_1_2,Variety name
+c_1_3,Variety name
+c_1_4,Variety name
+c_1_5,Variety name
+c_1_6,Variety name
+c_4_1,Year you start to plant this variety for the first time
+c_4_2,Year you start to plant this variety for the first time
+c_4_3,Year you start to plant this variety for the first time
+c_4_4,Year you start to plant this variety for the first time
+c_4_5,Year you start to plant this variety for the first time
+c_4_6,Year you start to plant this variety for the first time
+c_5_1,Source of planting material for the first time
+c_5_2,Source of planting material for the first time
+c_5_3,Source of planting material for the first time
+c_5_4,Source of planting material for the first time
+c_5_5,Source of planting material for the first time
+c_5_6,Source of planting material for the first time
+c_7_1,Have you shared the planting materials of this variety?
+c_7_2,Have you shared the planting materials of this variety?
+c_7_3,Have you shared the planting materials of this variety?
+c_7_4,Have you shared the planting materials of this variety?
+c_7_5,Have you shared the planting materials of this variety?
+c_7_6,Have you shared the planting materials of this variety?
+c_8_1_1,What do you mainly use this variety of Cassava for? (1)
+c_8_1_2,What do you mainly use this variety of Cassava for? (1)
+c_8_1_3,What do you mainly use this variety of Cassava for? (1)
+c_8_1_4,What do you mainly use this variety of Cassava for? (1)
+c_8_1_5,What do you mainly use this variety of Cassava for? (1)
+c_8_1_6,What do you mainly use this variety of Cassava for? (1)
+c_9_1,Have you changed the area planted to this variety?
+c_9_2,Have you changed the area planted to this variety?
+c_9_3,Have you changed the area planted to this variety?
+c_9_4,Have you changed the area planted to this variety?
+c_9_5,Have you changed the area planted to this variety?
+c_9_6,Have you changed the area planted to this variety?
+numvariety1,Number of variety
+numvariety2,Number of variety
+numvariety3,Number of variety
+numvariety4,Number of variety
+numvariety5,Number of variety
+numvariety6,Number of variety
+var_type1,Improved or Local
+var_type2,Improved or Local
+var_type3,Improved or Local
+var_type4,Improved or Local
+var_type5,Improved or Local
+var_type6,Improved or Local
+d_0_1,No. variety
+d_0_2,No. variety
+d_0_3,No. variety
+d_0_4,No. variety
+d_0_5,No. variety
+d_0_6,No. variety
+d_0_7,No. variety
+d_1_1,Name of the variety
+d_1_2,Name of the variety
+d_1_3,Name of the variety
+d_1_4,Name of the variety
+d_1_5,Name of the variety
+d_1_6,Name of the variety
+d_1_7,Name of the variety
+d_2_1,Year when this variety was first known/heard of
+d_2_2,Year when this variety was first known/heard of
+d_2_3,Year when this variety was first known/heard of
+d_2_4,Year when this variety was first known/heard of
+d_2_5,Year when this variety was first known/heard of
+d_2_6,Year when this variety was first known/heard of
+d_2_7,Year when this variety was first known/heard of
+d_3_1,Source of information about this variety
+d_3_2,Source of information about this variety
+d_3_3,Source of information about this variety
+d_3_4,Source of information about this variety
+d_3_5,Source of information about this variety
+d_3_6,Source of information about this variety
+d_3_7,Source of information about this variety
+d_4_1,Have you ever grown this variety on your farm?
+d_4_2,Have you ever grown this variety on your farm?
+d_4_3,Have you ever grown this variety on your farm?
+d_4_4,Have you ever grown this variety on your farm?
+d_4_5,Have you ever grown this variety on your farm?
+d_4_6,Have you ever grown this variety on your farm?
+d_4_7,Have you ever grown this variety on your farm?
+d_5_1,Main reason why you have not grown this variety
+d_5_2,Main reason why you have not grown this variety
+d_5_3,Main reason why you have not grown this variety
+d_5_4,Main reason why you have not grown this variety
+d_5_5,Main reason why you have not grown this variety
+d_5_6,Main reason why you have not grown this variety
+d_5_7,Main reason why you have not grown this variety
+d_6_1,Year when you first planted this variety
+d_6_2,Year when you first planted this variety
+d_6_3,Year when you first planted this variety
+d_6_4,Year when you first planted this variety
+d_6_5,Year when you first planted this variety
+d_6_6,Year when you first planted this variety
+d_6_7,Year when you first planted this variety
+d_7_1,Year when you last planted this variety
+d_7_2,Year when you last planted this variety
+d_7_3,Year when you last planted this variety
+d_7_4,Year when you last planted this variety
+d_7_5,Year when you last planted this variety
+d_7_6,Year when you last planted this variety
+d_7_7,Year when you last planted this variety
+d_8_1,Reasons for abandonment
+d_8_2,Reasons for abandonment
+d_8_3,Reasons for abandonment
+d_8_4,Reasons for abandonment
+d_8_5,Reasons for abandonment
+d_8_6,Reasons for abandonment
+d_8_7,Reasons for abandonment
+e_11,Did you obtain agricultural credit?
+e_12,Did you obtain agricultural credit?
+e_13,Did you obtain agricultural credit?
+e_1_1,Loans 
+e_1_2,Loans 
+e_1_3,Loans 
+e_2_1,Total value of loans when it was taken (VND)
+e_2_2,Total value of loans when it was taken (VND)
+e_2_3,Total value of loans when it was taken (VND)
+e_3_1,Interest rate on  loans 
+e_3_2,Interest rate on  loans 
+e_3_3,Interest rate on  loans 
+e_4_1,Main source of credit
+e_4_2,Main source of credit
+e_4_3,Main source of credit
+e_5_1,Use of the credit
+e_5_2,Use of the credit
+e_5_3,Use of the credit
+e_6_1,Received the credit as part of a contract with a local trader
+e_6_2,Received the credit as part of a contract with a local trader
+e_6_3,Received the credit as part of a contract with a local trader
+e_7_1,Credit for buying cassava planting material
+e_7_2,Credit for buying cassava planting material
+e_7_3,Credit for buying cassava planting material
+e_8_1,Credit for other cassava related activities other than planting material
+e_8_2,Credit for other cassava related activities other than planting material
+e_8_3,Credit for other cassava related activities other than planting material
+e_8b_1,Credit for other cassava related activities other than planting material- s
+e_8b_2,Credit for other cassava related activities other than planting material- s
+e_8b_3,Credit for other cassava related activities other than planting material- s
+e_1,Did you obtain agricultural credit? (1)
+e_9_1,Why did you not take a loan? (1)
+e_10_1,Where do you obtain cassava related information? (1)
+e_10_1c,Where do you obtain cassava related information? (1) - Research center
+e_10_2,Where do you obtain cassava related information? (2)
+e_10_2c,Where do you obtain cassava related information? (2) - Research center
+e_10_3,Where do you obtain cassava related information? (3)
+e_11_1,How often did you visit or meet [source] for advice/information? (1)
+e_14,Distance to the nearest agricultural extension office from residence (km)
+f_1,Are you  currently using high quality planting material?
+f_2,How often do you acquire new planting material?
+f_3,Can pests and diseases be transmitted by planting material?
+f_4,Would you pay for guaranteed superior quality planting material?
+g_1,TV
+g_2,Radio
+g_3,Cell phone
+g_4,Cassava storage
+g_5,Motorbike
+g_6,Bicycle
+g_7,Tractor
+g_8,Car/trucks
+g_9,Carts
+g_10,Irrigation pump
+g_11,Watch
+g_12,Hoe
+g_13,Plough
+g_14,Generator
+g_15,Own land used (A)
+g_15b,Own land used (A) - Unit
+g_16,Rented in land (B)
+g_16b,Rented in land (B) - Unit
+g_17,Rented out land (C)
+g_17b,Rented out land (C) - Unit
+g_18,Borrowed in land (D)
+g_18b,Borrowed in land (D) - Unit
+g_19,Borrowed out land (E)
+g_19b,Borrowed out land (E) - Unit
+g_15_1,Own land used (A)-m2
+g_16_1,Rented in land (B)-m2
+g_17_1,Rented out land (C)-m2
+g_18_1,Borrowed in ladn (D)-m2
+g_19_1,Borrowed out land (E)-m2
+totalland,total area of all plots of household
+h_1,Household members 14 years old or younger
+h_2,"Household members self-employed in agriculture, forestry or aquaculture"
+h_3,What type is the household?s main residence?
+h_4,What type of toilet arrangement does the household have?
+h_5,What is the household?s main source of water for cooking and drinking?
+h_6,What kind of cooker does the household have?
+h_7,Does the household have a motorbike?
+h_8,Does the household have a video player?
+h_9,Does the household have a wardrobe of any kind?
+h_10,Does the household have a refrigerator or freezer?
+i_1,"Cereals ( rice, noodles, bread etc)"
+i_2,"Pulses (beans, peas, groundnuts, and cashew nuts etc)"
+i_3,"Roots (cassava, potatoes, yam, sweet potatoes etc)"
+i_4,"Vegetables(Tomato, onion pepper, cabbage etc)"
+i_5,"Fruits (orange, banana, mango, papaya, apple, lemon etc)"
+i_6,"Beef, goat, poultry, pork"
+i_7,Sea food ( e.g fish)
+i_8,Eggs
+i_9,"Milk, yogurt and other diary"
+i_10,Sugar and honey products
+i_11,"Oils, fats, and butter"
+i_12,"Condiments (coffee, tea, etc.)"
+i_13,Was there any festival or celebration yesterday
+j_0,Member of the household participate in any organization
+j_1_1,What type of organization do you participate in?
+j_1_2,What type of organization do you participate in?
+j_1_3,What type of organization do you participate in?
+j_1_4,What type of organization do you participate in?
+j_1_5,What type of organization do you participate in?
+j_1_6,What type of organization do you participate in?
+j_1_7,What type of organization do you participate in?
+j_2_1,In what type of organization does other member participate?
+j_2_2,In what type of organization does other member participate?
+j_2_3,In what type of organization does other member participate?
+j_2_4,In what type of organization does other member participate?
+j_2_5,In what type of organization does other member participate?
+j_2_6,In what type of organization does other member participate?
+j_2_7,In what type of organization does other member participate?
+j_3_1,How active are you in this organization?
+j_3_2,How active are you in this organization?
+j_3_3,How active are you in this organization?
+j_3_4,How active are you in this organization?
+j_3_5,How active are you in this organization?
+j_3_6,How active are you in this organization?
+j_3_7,How active are you in this organization?
+j_4_1,How active is the other household member in this organization?
+j_4_2,How active is the other household member in this organization?
+j_4_3,How active is the other household member in this organization?
+j_4_4,How active is the other household member in this organization?
+j_4_5,How active is the other household member in this organization?
+j_4_6,How active is the other household member in this organization?
+j_4_7,How active is the other household member in this organization?
+j_5_1,Your household make contributions or pay fees to this organization
+j_5_2,Your household make contributions or pay fees to this organization
+j_5_3,Your household make contributions or pay fees to this organization
+j_5_4,Your household make contributions or pay fees to this organization
+j_5_5,Your household make contributions or pay fees to this organization
+j_5_6,Your household make contributions or pay fees to this organization
+j_5_7,Your household make contributions or pay fees to this organization
