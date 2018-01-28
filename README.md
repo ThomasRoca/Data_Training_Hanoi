@@ -6,7 +6,11 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 
 <br>
 
-**Dataviz workshop: [Lecture slides available soon]**
+**Dataviz workshop: **
+- [Day 1 - Dataviz et Datastory Workshop](http://datactivist.com/lecture/Day%201%20-%20Dataviz%20et%20Datastory%20Workshop%20-%20Hanoi.html)
+- [Day 2 - Data Training Hanoi](http://datactivist.com/lecture/Day 2 - Data Training Hanoi.html)
+- [Day 3 - The data Product infrastructure](http://datactivist.com/lecture/Day 3 - The data Product infrastructure.html)
+
 
 **Tools we are going to use:**
 
