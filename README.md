@@ -152,9 +152,9 @@ from Data in a spreedsheet to data as a service
 	- [leaflet](http://leafletjs.com/examples/quick-start/example-popups.html)
 	- [Javascript](http://jsfiddle.net/ThomasRoca/50snpv6r/)
 	- [parse JSON data](http://jsfiddle.net/ThomasRoca/5f4jh80c)
-	- [World Bank Application](http://jsfiddle.net/ThomasRoca/1vpypyc9)
-	- [API WDI](http://jsfiddle.net/ThomasRoca/0eata2p0)
-	- [DHS API](http://jsfiddle.net/ThomasRoca/069Lqfkz)
+	- [How to make an API Call](https://jsfiddle.net/ThomasRoca/j5d919k4/3/)
+	- [Draw a graph with from API data](https://jsfiddle.net/ThomasRoca/pxmxpsed/2/)
+
 - **Highcharts:**
 	- https://www.highcharts.com/demo
 	- https://www.highcharts.com/blog/
