@@ -8,8 +8,8 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 
 **Dataviz workshop: **
 - [Day 1 - Dataviz et Datastory Workshop](http://datactivist.com/lecture/Day%201%20-%20Dataviz%20et%20Datastory%20Workshop%20-%20Hanoi.html)
-- [Day 2 - Data Training Hanoi](http://datactivist.com/lecture/Day 2 - Data Training Hanoi.html)
-- [Day 3 - The data Product infrastructure](http://datactivist.com/lecture/Day 3 - The data Product infrastructure.html)
+- [Day 2 - Data Training Hanoi](http://datactivist.com/lecture/Day%202%20-%20Data%20Training%20Hanoi.html)
+- [Day 3 - The data Product infrastructure](http://datactivist.com/lecture/Day%203%20-%20The%20data%20Product%20infrastructure.html)
 
 
 **Tools we are going to use:**
