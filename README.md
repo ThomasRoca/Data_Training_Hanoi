@@ -156,7 +156,7 @@ from Data in a spreedsheet to data as a service
 	- [How to make an API Call](https://jsfiddle.net/ThomasRoca/j5d919k4/3/)
 	- [Draw a graph with from API data](https://jsfiddle.net/ThomasRoca/pxmxpsed/2/)
 	- James' graph! Call Api, user interface and graph [link](https://jsfiddle.net/jegiles/ddffgz29/)
-
+	- [DHS API with leaflet](http://jsfiddle.net/ThomasRoca/069Lqfkz/?utm_source=website&utm_medium=embed&utm_campaign=069Lqfkz)
 - **Highcharts:**
 	- https://www.highcharts.com/demo
 	- https://www.highcharts.com/blog/
