@@ -169,3 +169,34 @@ from Data in a spreedsheet to data as a service
 - [Data Glossary - Data-Pop Alliance](https://github.com/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Glossary.md)
 - [Mapping Data Sources for development](https://afdlab4dev.github.io/Wiki-DataExploration-in-AFD/)
 
+
+## DHS META DATA:
+Meta data as presented on : http://spatialdata.dhsprogram.com/data/#/common/download
+
+Countries: AL, AO, AM, AZ, BD, BJ, BO, BT, BR, BF, BU, KH, CM, CF, TD, CO, KM, CG, CD, CI, DR, EC, EG, ES, ER, ET, GA, GH, GU, GN, GY, HT, HN, IA, ID, JO, KK, KE, KY, LS, LB, MD, MW, MV, ML, MR, MX, MB, MA, MZ, NM, NP, NC, NI, NG, PK, PY, PE, PH, RW, ST, SN, SL, ZA, LK, SD, SZ, TJ, TZ, TH, GM, TL, TG, TT, TN, TR, TM, UG, UA, UZ, VN, YE, ZM, ZW
+
+### Indicators:
+- Households with electricity (i7C3CB1)
+- Women with secondary or higher education (iA999FA)
+- Women who are literate (i797B5DA)
+- Total fertility rate (i133C8F8)
+- Married women currently using any method of contraception (i209E190)
+- Married women currently using any modern method of contraception (i209E191)
+- Median age at first marriage: 25-49 (i349C430)
+- Median age at first sexual intercourse: 25-49 (i36848B0)
+- Unmet need total (iCE37FE2)
+- Infant mortality rate (i42FFDB2)
+- Under-five mortality rate (i42FFDB4)
+- Place of delivery: Health facility (i49B3AD0)
+- Received all vaccinations (i4E75F0A)
+- Treatment of diarrhea: Either ORS or RHS (i533BDCB)
+- Median duration of exclusive breastfeeding (i5716309)
+- Children stunted (iCC96C1A)
+- Children underweight (iCC97002)
+- Children wasted (iCC973EA)
+- Men receiving an HIV test and receiving test results in the last 12 months (i42759491)
+- Women receiving an HIV test and receiving test results in the last 12 months (i42759492)
+- HIV prevalence among men (i41075E91)
+- HIV prevalence among women (i41075E92)
+- HIV prevalence among general population (i41075E93)
+- Children under 5 who slept under an insecticide treated net (ITN) (iC6D4E13)
