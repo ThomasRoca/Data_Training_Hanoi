@@ -24,6 +24,8 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 - [LNhu](http://datactivist.com/lecture/template_LNhu.html)
 - [James: Disaster risk reduction strategy through Climate Smart Villages in Pakistan](http://datactivist.com/lecture/Pakistan_WASH_James.html)
 - [Brice: Watch out! your cocoa's urea is producing a lot of CO2 !](http://datactivist.com/lecture/templateHanoiblog_be_BEven.html)
+
+
 **Tools we are going to use:**
 
 For this workshop, you will need to install a **code editor**:
