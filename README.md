@@ -13,9 +13,17 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 
 **Participant's realizations:**
 - [Erik: Changing farms and changing farmers in Southeast Asia](http://datactivist.com/lecture/Erik.html)
-
-
-
+- [Maria Angela Barua](http://datactivist.com/lecture/blog_barua_MBarua.html)
+- [Louis Parler](http://datactivist.com/lecture/CIAT_blog_Parker.html)
+- [Thuy Khuong: Infant mortality rate](http://datactivist.com/lecture/Data Training_Thuy Khuong.html)
+- [Trong Phan](http://datactivist.com/lecture/DataStories_TrongPhan.html)
+- [Thuy Nguyen](http://datactivist.com/lecture/DataWorkshop_2018.01_ThuyNguyen.html)
+- [The Farmer and the Smart Carabao](http://datactivist.com/lecture/HanoiTemplate_JBlanza.html)
+- [Nghiem Le](http://datactivist.com/lecture/Nghiem Le.html)
+- [Maureen Gregorio](http://datactivist.com/lecture/Output_MGregorio.html)
+- [LNhu](http://datactivist.com/lecture/template_LNhu.html)
+- [James: Disaster risk reduction strategy through Climate Smart Villages in Pakistan](http://datactivist.com/lecture/Pakistan_WASH_James.html)
+- [Brice: Watch out! your cocoa's urea is producing a lot of CO2 !](http://datactivist.com/lecture/templateHanoiblog_be_BEven.html)
 **Tools we are going to use:**
 
 For this workshop, you will need to install a **code editor**:
