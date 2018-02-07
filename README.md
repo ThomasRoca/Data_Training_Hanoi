@@ -12,7 +12,7 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 - [Day 3 - The data Product infrastructure](http://datactivist.com/lecture/Day%203%20-%20The%20data%20Product%20infrastructure.html)
 
 **Participant's realizations:**
-- [Erik: Changing farms and changing farmers in Southeast Asia](Erik.html)
+- [Erik: Changing farms and changing farmers in Southeast Asia](http://datactivist.com/lecture/Erik.html)
 
 
 
