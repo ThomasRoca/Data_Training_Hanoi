@@ -19,7 +19,7 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 - [Trong Phan](http://datactivist.com/lecture/DataStories_TrongPhan.html)
 - [Thuy Nguyen](http://datactivist.com/lecture/DataWorkshop_2018.01_ThuyNguyen.html)
 - [The Farmer and the Smart Carabao](http://datactivist.com/lecture/HanoiTemplate_JBlanza.html)
-- [Nghiem Le](http://datactivist.com/lecture/Nghiem Le.html)
+- [Nghiem Le](http://datactivist.com/lecture/Nghiem%20Le.html)
 - [Maureen Gregorio](http://datactivist.com/lecture/Output_MGregorio.html)
 - [LNhu](http://datactivist.com/lecture/template_LNhu.html)
 - [James: Disaster risk reduction strategy through Climate Smart Villages in Pakistan](http://datactivist.com/lecture/Pakistan_WASH_James.html)
