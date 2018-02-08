@@ -14,7 +14,7 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 **Participant's realizations:**
 - [Erik: Changing farms and changing farmers in Southeast Asia](http://datactivist.com/lecture/Erik.html)
 - [Maria Angela Barua](http://datactivist.com/lecture/blog_barua_MBarua.html)
-- [Louis Parler](http://datactivist.com/lecture/CIAT_blog_Parker.html)
+- [Louis Parker](http://datactivist.com/lecture/CIAT_blog_Parker.html)
 - [Thuy Khuong: Infant mortality rate](http://datactivist.com/lecture/Data%20Training_Thuy%20Khuong.html)
 - [Trong Phan](http://datactivist.com/lecture/DataStories_TrongPhan.html)
 - [Thuy Nguyen](http://datactivist.com/lecture/DataWorkshop_2018.01_ThuyNguyen.html)
